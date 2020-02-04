@@ -4,7 +4,7 @@
 
 #### Tools
 
-- Install `node`:
+- Install `node`:   
   ```bash
   $ brew install node
   ```
